@@ -1,0 +1,10 @@
+{
+  "name": "Island Breeze AC & Heating",
+  "description": "Firefighter-owned and operated premier HVAC contractor in Phoenix, AZ, offering residential and light commercial AC, heating, ductless systems, and air quality services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
